@@ -1,0 +1,2 @@
+Datos del arreglo: 28469
+Datos del arreglo ordenado: 24689
